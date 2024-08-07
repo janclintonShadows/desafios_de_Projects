@@ -6,15 +6,12 @@ Bem-vindo à lista de projetos de análise de dados! Esta coleção contém dive
 
 1. **Análise de Dados Demograficos**
    - Descrição: Análise de dados demograficos.
-   - Link: [Análise de Dados Demograficos](./Proj_1- Dados Demograficos)
+   - Link: [Análise de Dados Demograficos]("./Proj_1- Dados Demograficos")
 
 2. **Previsão de Vendas**
    - Descrição: Análise detalhada das vendas de uma empresa ao longo de um ano.
-   - Link: [Análise de Vendas](./Proj_2 - Analise de Vendas)
+   - Link: [Análise de Vendas]("./Proj_2 - Analise de Vendas")
 
-3. **Análise de Sentimento**
-   - Descrição: Análise de sentimento de comentários de clientes em redes sociais.
-   - Link: [Análise de Sentimento](./analise-de-sentimento)
 
 
 
