@@ -12,9 +12,6 @@ Bem-vindo à lista de projetos de análise de dados! Esta coleção contém dive
    - Descrição: Análise detalhada das vendas de uma empresa ao longo de um ano.
    - Link: [Análise de Vendas](Proj_2_Analise_de_Vendas/)
 
-
-
-
 ## Como Usar
 
 Cada projeto contém um conjunto de scripts e notebooks que podem ser executados para reproduzir os resultados. Certifique-se de ler o `README.md` de cada pasta para obter instruções detalhadas sobre como configurar e executar os projetos.
