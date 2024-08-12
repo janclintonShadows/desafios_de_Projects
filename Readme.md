@@ -10,7 +10,7 @@ Bem-vindo à lista de projetos de análise de dados! Esta coleção contém dive
 
 2. **Previsão de Vendas**
    - Descrição: Análise detalhada das vendas de uma empresa ao longo de um ano.
-   - Link: [Análise de Vendas](./Proj_2 - Analise de Vendas/)
+   - Link: [Análise de Vendas](./Proj_2_ Analise_de_Vendas/)
 
 
 
